@@ -33,4 +33,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Improvements
 
-Would need to deal with pagination and search, so it is not boggled by large api call.
+Would need to deal with pagination and search, so it is not boggled by large api call. Also, to integrate the three test scenarios. 
