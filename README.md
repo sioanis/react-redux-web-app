@@ -1,4 +1,4 @@
-# Redux Async Example
+# Web App
 
 ## Available Scripts
 
